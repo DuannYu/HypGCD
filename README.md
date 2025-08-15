@@ -8,9 +8,7 @@ This study addresses the problem of Generalized Category Discovery (GCD), an adv
 
 ### Dependencies
 
-```
-pip install -r requirements.txt
-```
+[pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 
 ### Config
 
