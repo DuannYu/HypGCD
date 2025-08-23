@@ -54,3 +54,14 @@ The code repo is largely built on this [repo](https://github.com/sgvaze/generali
 
 # Citations
 If you use our code, please cite our work. :)
+```bib
+@ARTICLE{duan2025hyperbolic,
+  author={Duan, Yu and Nie, Feiping and Chen, Huimin and Hu, Zhanxuan and Wang, Rong and Li, Xuelong},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TNNLS.2025.3597074}}
+```
